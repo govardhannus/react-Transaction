@@ -1,0 +1,10 @@
+.formContainer {
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-left: 20px;
+}
+.header {
+    margin: 20px;
+    font-size: 30px;
+}
